@@ -6,9 +6,9 @@
 			<button type="picture" icon="camera_32x32" />
 			<button type="textnote" icon="text_32x32" />
 		</row>
-		
+
 		<row>
-			<button type="page" label="@string/tag.misc" icon="button_misc" targetlayout="misc"  />
+			<button type="page" label="@string/tag.MTB down" icon="button_misc" targetlayout="MTB down"  />
 			<button type="page" label="@string/tag.restriction" icon="button_restriction" targetlayout="restriction"  />
 			<button type="page" label="@string/tag.car" icon="button_car" targetlayout="car"  />
 		</row>
@@ -24,7 +24,7 @@
 		</row>
 	</layout>
 
-	<layout name="misc">
+	<layout name="MTB down">
 		<row>
 			<button type="voicerec" icon="voice_32x32" />
 			<button type="picture" icon="camera_32x32" />

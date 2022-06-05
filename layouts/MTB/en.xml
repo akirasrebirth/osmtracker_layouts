@@ -17,19 +17,19 @@
 			<button type="tag" label="mtb:scale=5" icon="MTB_icons/mtb_scale_5.png" />
 			<button type="tag" label="mtb:scale=6" icon="MTB_icons/mtb_scale_6.png" />
 			<button type="tag" label="mtb:scale:uphill=0" icon="MTB_icons/mtb_scale_0.png" />
-			<button type="tag" label="mtb:scale:uphill=1" />
+			<button type="tag" label="mtb:scale:uphill=1" icon="MTB_icons/mtb_scale_0.png" />
 		</row>
 		<row>
-			<button type="tag" label="mtb:scale:uphill=2" />
-			<button type="tag" label="mtb:scale:uphill=3" />
-			<button type="tag" label="mtb:scale:uphill=4" />
-			<button type="tag" label="mtb:scale:uphill=5" />
+			<button type="tag" label="mtb:scale:uphill=2" icon="MTB_icons/mtb_scale_0.png" />
+			<button type="tag" label="mtb:scale:uphill=3" icon="MTB_icons/mtb_scale_0.png" />
+			<button type="tag" label="mtb:scale:uphill=4" icon="MTB_icons/mtb_scale_0.png" />
+			<button type="tag" label="mtb:scale:uphill=5" icon="MTB_icons/mtb_scale_0.png" />
 		</row>
 		<row>
 			<button type="tag" label="highway=track" icon="MTB_icons/button_track_track.png" />
 			<button type="tag" label="highway=path" icon="MTB_icons/button_track_grade1.png" />
 			<button type="tag" label="bicycle=no" icon="MTB_icons/bicycle_no.png" />
-			<button type="tag" label="charging_station_bicycle=yes" />
+			<button type="tag" label="charging_station_bicycle=yes" icon="MTB_icons/mtb_scale_0.png" />
 		</row>
 	</layout>
 </layouts>

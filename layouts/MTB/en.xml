@@ -5,18 +5,18 @@
 			<button type="voicerec" icon="voice_32x32" />
 			<button type="picture" icon="camera_32x32" />
 			<button type="textnote" icon="text_32x32" />
-			<button type="page" label="uphill" targetlayout="uphill" />
+			<button type="page" label="uphill" icon="uphill.png" targetlayout="uphill" />
 		</row>
 		<row>
 			<button type="tag" label="mtb:scale=0" icon="MTB_icons/mtb_scale_0.png" />
-			<button type="tag" label="mtb:scale=1" />
-			<button type="tag" label="mtb:scale=2" />
-			<button type="tag" label="mtb:scale=3" />
+			<button type="tag" label="mtb:scale=1" icon="MTB_icons/mtb_scale_1.png"/>
+			<button type="tag" label="mtb:scale=2" icon="MTB_icons/mtb_scale_2.png"/>
+			<button type="tag" label="mtb:scale=3" icon="MTB_icons/mtb_scale_3.png"/>
 		</row>
 		<row>
-			<button type="tag" label="mtb:scale=4" />
-			<button type="tag" label="mtb:scale=5" />
-			<button type="tag" label="mtb:scale=6" />
+			<button type="tag" label="mtb:scale=4" icon="MTB_icons/mtb_scale_4.png"/>
+			<button type="tag" label="mtb:scale=5" icon="MTB_icons/mtb_scale_5.png"/>
+			<button type="tag" label="mtb:scale=6" icon="MTB_icons/mtb_scale_6.png"/>
 			<button type="tag" label="mtb:scale:imba=0" />
 		</row>
 		<row>

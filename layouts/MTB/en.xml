@@ -8,7 +8,7 @@
 			<button type="page" label="uphill" targetlayout="uphill" />
 		</row>
 		<row>
-			<button type="tag" label="mtb:scale=0" icon="mtb_scale_0.png"/>
+			<button type="tag" label="mtb:scale=0" icon="mtb_scale_0.png" />
 			<button type="tag" label="mtb:scale=1" />
 			<button type="tag" label="mtb:scale=2" />
 			<button type="tag" label="mtb:scale=3" />

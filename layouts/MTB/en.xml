@@ -5,58 +5,31 @@
 			<button type="voicerec" icon="voice_32x32" />
 			<button type="picture" icon="camera_32x32" />
 			<button type="textnote" icon="text_32x32" />
-			<button type="page" label="uphill" icon="MTB_icons/uphill.png" targetlayout="uphill" />
+			<button type="tag" label="mtb:scale=0" icon="MTB_icons/mtb_scale_0.png" />
 		</row>
 		<row>
-			<button type="tag" label="mtb:scale=0" icon="MTB_icons/mtb_scale_0.png" />
 			<button type="tag" label="mtb:scale=1" icon="MTB_icons/mtb_scale_1.png" />
 			<button type="tag" label="mtb:scale=2" icon="MTB_icons/mtb_scale_2.png" />
 			<button type="tag" label="mtb:scale=3" icon="MTB_icons/mtb_scale_3.png" />
+			<button type="tag" label="mtb:scale=4" icon="MTB_icons/mtb_scale_4.png" />
 		</row>
 		<row>
-			<button type="tag" label="mtb:scale=4" icon="MTB_icons/mtb_scale_4.png" />
 			<button type="tag" label="mtb:scale=5" icon="MTB_icons/mtb_scale_5.png" />
 			<button type="tag" label="mtb:scale=6" icon="MTB_icons/mtb_scale_6.png" />
-			<button type="tag" label="mtb:scale:imba=0" />
+			<button type="tag" label="mtb:scale:uphill=0" icon="MTB_icons/mtb_scale_0.png" />
+			<button type="tag" label="mtb:scale:uphill=1" />
 		</row>
 		<row>
-			<button type="tag" label="mtb:scale:imba=1" />
-			<button type="tag" label="mtb:scale:imba=2" />
-			<button type="tag" label="mtb:scale:imba=3" />
-			<button type="tag" label="mtb:scale:imba=4" />
+			<button type="tag" label="mtb:scale:uphill=2" />
+			<button type="tag" label="mtb:scale:uphill=3" />
+			<button type="tag" label="mtb:scale:uphill=4" />
+			<button type="tag" label="mtb:scale:uphill=5" />
 		</row>
 		<row>
 			<button type="tag" label="highway=track" icon="MTB_icons/button_track_track.png" />
 			<button type="tag" label="highway=path" icon="MTB_icons/button_track_grade1.png" />
 			<button type="tag" label="bicycle=no" icon="MTB_icons/bicycle_no.png" />
 			<button type="tag" label="charging_station_bicycle=yes" />
-		</row>
-	</layout>
-
-	<layout name="uphill">
-		<row>
-			<button type="voicerec" icon="voice_32x32" />
-			<button type="picture" icon="camera_32x32" />
-			<button type="textnote" icon="text_32x32" />
-			<button type="tag" label="mtb:scale:uphill=0" icon="MTB_icons/mtb_scale_0.png" />
-		</row>
-		<row>
-			<button type="tag" label="mtb:scale:uphill=1" />
-			<button type="tag" label="mtb:scale:uphill=2" />
-			<button type="tag" label="mtb:scale:uphill=3" />
-			<button type="tag" label="mtb:scale:uphill=4" />
-		</row>
-		<row>
-			<button type="tag" label="mtb:scale:uphill=5" />
-			<button type="tag" label="incline= 10%" />
-			<button type="tag" label="incline= 15%" />
-			<button type="tag" label="incline= 20%" />
-		</row>
-		<row>
-			<button type="tag" label="incline= 25%" />
-			<button type="tag" label="incline= 30%" />
-			<button type="tag" label="incline= 35%" />
-			<button type="page" label="back" icon="MTB_icons/back.png" targetlayout="root" />
 		</row>
 	</layout>
 </layouts>

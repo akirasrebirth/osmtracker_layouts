@@ -2,9 +2,12 @@
 <layouts>
 	<layout name="root">
 		<row>
-			<button type="voicerec" icon="voice_32x32" />
+			<button type="voicerec" icon="MTB_icons/voice_32x32.png" />
+			<button type="picture" icon="MTB_icons/camera_32x32.png" />
+			<button type="textnote" icon="MTB_icons/text_32x32.png" />
+			<!-- <button type="voicerec" icon="voice_32x32" />
 			<button type="picture" icon="camera_32x32" />
-			<button type="textnote" icon="text_32x32" />
+			<button type="textnote" icon="text_32x32" /> -->
 			<button type="page" label="uphill" icon="MTB_icons/uphill.png" targetlayout="uphill" />
 		</row>
 		<row>
@@ -26,8 +29,8 @@
 			<button type="tag" label="mtb:scale:imba=4" />
 		</row>
 		<row>
-			<button type="tag" label="highway=track" />
-			<button type="tag" label="highway=path" />
+			<button type="tag" label="highway=track" icon="MTB_icons/button_track_track.png"/>
+			<button type="tag" label="highway=path" icon="MTB_icons/button_track_grade1.png"/>
 			<button type="tag" label="bicycle=no" />
 			<button type="tag" label="charging_station bicycle=yes" />
 		</row>
@@ -48,15 +51,15 @@
 		</row>
 		<row>
 			<button type="tag" label="mtb:scale:uphill=5" />
-			<button type="tag" label="incline=10%" />
-			<button type="tag" label="incline=15%" />
-			<button type="tag" label="incline=20%" />
+			<button type="tag" label="incline= 10%" />
+			<button type="tag" label="incline= 15%" />
+			<button type="tag" label="incline= 20%" />
 		</row>
 		<row>
-			<button type="tag" label="incline=25%" />
-			<button type="tag" label="incline=30%" />
-			<button type="tag" label="incline=35%" />
-			<button type="tag" label="incline=40%" />
+			<button type="tag" label="incline= 25%" />
+			<button type="tag" label="incline= 30%" />
+			<button type="tag" label="incline= 35%" />
+			<button type="tag" label="incline= 40%" />
 		</row>
 	</layout>
 </layouts>

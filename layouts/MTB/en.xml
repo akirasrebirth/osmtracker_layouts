@@ -2,24 +2,21 @@
 <layouts>
 	<layout name="root">
 		<row>
-			<button type="voicerec" icon="MTB_icons/voice_32x32.png" />
-			<button type="picture" icon="MTB_icons/camera_32x32.png" />
-			<button type="textnote" icon="MTB_icons/text_32x32.png" />
-			<!-- <button type="voicerec" icon="voice_32x32" />
+			<button type="voicerec" icon="voice_32x32" />
 			<button type="picture" icon="camera_32x32" />
-			<button type="textnote" icon="text_32x32" /> -->
+			<button type="textnote" icon="text_32x32" />
 			<button type="page" label="uphill" icon="MTB_icons/uphill.png" targetlayout="uphill" />
 		</row>
 		<row>
 			<button type="tag" label="mtb:scale=0" icon="MTB_icons/mtb_scale_0.png" />
-			<button type="tag" label="mtb:scale=1" icon="MTB_icons/mtb_scale_1.png"/>
-			<button type="tag" label="mtb:scale=2" icon="MTB_icons/mtb_scale_2.png"/>
-			<button type="tag" label="mtb:scale=3" icon="MTB_icons/mtb_scale_3.png"/>
+			<button type="tag" label="mtb:scale=1" icon="MTB_icons/mtb_scale_1.png" />
+			<button type="tag" label="mtb:scale=2" icon="MTB_icons/mtb_scale_2.png" />
+			<button type="tag" label="mtb:scale=3" icon="MTB_icons/mtb_scale_3.png" />
 		</row>
 		<row>
-			<button type="tag" label="mtb:scale=4" icon="MTB_icons/mtb_scale_4.png"/>
-			<button type="tag" label="mtb:scale=5" icon="MTB_icons/mtb_scale_5.png"/>
-			<button type="tag" label="mtb:scale=6" icon="MTB_icons/mtb_scale_6.png"/>
+			<button type="tag" label="mtb:scale=4" icon="MTB_icons/mtb_scale_4.png" />
+			<button type="tag" label="mtb:scale=5" icon="MTB_icons/mtb_scale_5.png" />
+			<button type="tag" label="mtb:scale=6" icon="MTB_icons/mtb_scale_6.png" />
 			<button type="tag" label="mtb:scale:imba=0" />
 		</row>
 		<row>
@@ -29,9 +26,9 @@
 			<button type="tag" label="mtb:scale:imba=4" />
 		</row>
 		<row>
-			<button type="tag" label="highway=track" icon="MTB_icons/button_track_track.png"/>
-			<button type="tag" label="highway=path" icon="MTB_icons/button_track_grade1.png"/>
-			<button type="tag" label="bicycle=no" icon="MTB_icons/bicycle_no.png"/>
+			<button type="tag" label="highway=track" icon="MTB_icons/button_track_track.png" />
+			<button type="tag" label="highway=path" icon="MTB_icons/button_track_grade1.png" />
+			<button type="tag" label="bicycle=no" icon="MTB_icons/bicycle_no.png" />
 			<button type="tag" label="charging_station_bicycle=yes" />
 		</row>
 	</layout>

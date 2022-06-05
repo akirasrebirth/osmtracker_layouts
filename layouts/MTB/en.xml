@@ -8,23 +8,26 @@
 		</row>
 
 		<row>
-			<button type="page" label="@string/tag.MTB down" icon="button_misc" targetlayout="MTB down"  />
-			<button type="page" label="@string/tag.restriction" icon="button_restriction" targetlayout="restriction"  />
-			<button type="page" label="@string/tag.car" icon="button_car" targetlayout="car"  />
+			<button type="tag" label="mtb:scale=0" />
+			<button type="tag" label="mtb:scale=1" />
+			<button type="tag" label="mtb:scale=2" />
+			<button type="tag" label="mtb:scale=3" />
 		</row>
 		<row>
-			<button type="page" label="@string/tag.tourism" icon="button_tourism" targetlayout="tourism"  />
-			<button type="page" label="@string/tag.amenity" icon="button_amenity" targetlayout="amenity"  />
-			<button type="page" label="@string/tag.amenity_more" icon="button_amenity" targetlayout="amenity_more"  />
+			<button type="tag" label="mtb:scale=4" />
+			<button type="tag" label="mtb:scale=5" />
+			<button type="tag" label="mtb:scale=6" />
+			<button type="tag" label="mtb:scale:uphill=0" />
 		</row>
 		<row>
-			<button type="page" label="@string/tag.way" icon="button_way" targetlayout="way"  />
-			<button type="page" label="@string/tag.track" icon="button_track" targetlayout="track"  />
-			<button type="page" label="@string/tag.landuse" icon="button_landuse" targetlayout="landuse"  />
+			<button type="tag" label="mtb:scale:uphill=1" />
+			<button type="tag" label="mtb:scale:uphill=2" />
+			<button type="tag" label="mtb:scale:uphill=3" />
+			<button type="tag" label="mtb:scale:uphill=4" />
 		</row>
 	</layout>
 
-	<layout name="MTB down">
+	<!-- <layout name="MTB down">
 		<row>
 			<button type="voicerec" icon="voice_32x32" />
 			<button type="picture" icon="camera_32x32" />
@@ -237,5 +240,5 @@
 			<button type="tag" label="@string/tag.landuse_cemetery" icon="button_landuse_cemetery" />
 			<button type="tag" label="@string/tag.landuse_recreation_ground" icon="button_landuse_recreation_ground" />
 		</row>
-	</layout>
+	</layout> -->
 </layouts>

@@ -5,10 +5,10 @@
 			<button type="voicerec" icon="voice_32x32" />
 			<button type="picture" icon="camera_32x32" />
 			<button type="textnote" icon="text_32x32" />
-			<button type="page" label="other" targetlayout="uphill" />
+			<button type="page" label="uphill" targetlayout="uphill" />
 		</row>
 		<row>
-			<button type="tag" label="mtb:scale=0" />
+			<button type="tag" label="mtb:scale=0" icon="mtb_scale_0.png"/>
 			<button type="tag" label="mtb:scale=1" />
 			<button type="tag" label="mtb:scale=2" />
 			<button type="tag" label="mtb:scale=3" />
@@ -32,7 +32,7 @@
 			<button type="tag" label="charging_station bicycle=yes" />
 		</row>
 	</layout>
-	
+
 	<layout name="uphill">
 		<row>
 			<button type="voicerec" icon="voice_32x32" />

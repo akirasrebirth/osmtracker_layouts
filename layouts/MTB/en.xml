@@ -5,7 +5,7 @@
 			<button type="voicerec" icon="voice_32x32" />
 			<button type="picture" icon="camera_32x32" />
 			<button type="textnote" icon="text_32x32" />
-			<button type="tag" label="mtb:scale=0" icon="MTB_icons/mtb_scale_0.png" />
+			<!-- <button type="tag" label="mtb:scale=0" icon="MTB_icons/mtb_scale_0.png" /> -->
 		</row>
 		<row>
 			<button type="tag" label="mtb:scale=1" icon="MTB_icons/mtb_scale_1.png" />

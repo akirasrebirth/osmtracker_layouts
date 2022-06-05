@@ -32,7 +32,7 @@
 			<button type="tag" label="highway=track" icon="MTB_icons/button_track_track.png"/>
 			<button type="tag" label="highway=path" icon="MTB_icons/button_track_grade1.png"/>
 			<button type="tag" label="bicycle=no" icon="MTB_icons/bicycle_no.png"/>
-			<button type="tag" label="charging_station bicycle=yes" />
+			<button type="tag" label="charging_station_bicycle=yes" />
 		</row>
 	</layout>
 

@@ -8,18 +8,17 @@
 			<!-- <button type="tag" label="mtb:scale=0" icon="MTB_icons/mtb_scale_0.png" /> -->
 		</row>
 		<row>
+			<button type="tag" label="mtb:scale=0" icon="MTB_icons/mtb_scale_0.png" />
 			<button type="tag" label="mtb:scale=1" icon="MTB_icons/mtb_scale_1.png" />
 			<button type="tag" label="mtb:scale=2" icon="MTB_icons/mtb_scale_2.png" />
 			<button type="tag" label="mtb:scale=3" icon="MTB_icons/mtb_scale_3.png" />
 			<button type="tag" label="mtb:scale=4" icon="MTB_icons/mtb_scale_4.png" />
-		</row>
-		<row>
 			<button type="tag" label="mtb:scale=5" icon="MTB_icons/mtb_scale_5.png" />
 			<button type="tag" label="mtb:scale=6" icon="MTB_icons/mtb_scale_6.png" />
-			<button type="tag" label="mtb:scale:uphill=0" icon="MTB_icons/mtb_scale_0.png" />
-			<button type="tag" label="mtb:scale:uphill=1" icon="MTB_icons/mtb_scale_0.png" />
 		</row>
 		<row>
+			<button type="tag" label="mtb:scale:uphill=0" icon="MTB_icons/mtb_scale_0.png" />
+			<button type="tag" label="mtb:scale:uphill=1" icon="MTB_icons/mtb_scale_0.png" />
 			<button type="tag" label="mtb:scale:uphill=2" icon="MTB_icons/mtb_scale_0.png" />
 			<button type="tag" label="mtb:scale:uphill=3" icon="MTB_icons/mtb_scale_0.png" />
 			<button type="tag" label="mtb:scale:uphill=4" icon="MTB_icons/mtb_scale_0.png" />
